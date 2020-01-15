@@ -3,3 +3,4 @@ Hello, Git!
 Другая строка
 
 Hello,Git!
+Hello, Git Rebase!
